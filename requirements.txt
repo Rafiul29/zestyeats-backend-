@@ -3,7 +3,6 @@ amqp
 annotated-types
 anyio
 APScheduler
-apturl
 argon2-cffi
 argon2-cffi-bindings
 asgiref
