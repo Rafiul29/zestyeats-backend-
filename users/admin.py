@@ -33,3 +33,4 @@ class CustomUserAdmin(UserAdmin):
         if form.base_fields.get('email'):
             form.base_fields['email'].required = True
         return form
+
